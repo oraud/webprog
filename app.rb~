@@ -3,7 +3,7 @@ require 'sinatra'
 require 'erb'
 
 get '/' do
-  <h1>"hello!"</h1>
+  "hello"
 end
 
 get "/hi/:name" do
