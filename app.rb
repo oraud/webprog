@@ -7,6 +7,6 @@ get '/' do
   erb :fooldal
 end
 
-get "/hi/:name" do
+get "/hi/" do
   erb :hello
 end
