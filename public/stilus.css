@@ -1,0 +1,19 @@
+@charset "utf-8";
+html{
+	background: #22992a;
+     }
+
+.kozepre {
+	text-align: center;
+        }
+
+a:hover{  color: #ffffff; 
+         text-decoration: line-through ;
+        }
+
+a:visited{  color: #ffffff;
+          }
+
+a:link{ color: #ffffff;
+       }
+

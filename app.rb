@@ -3,7 +3,8 @@ require 'sinatra'
 require 'erb'
 
 get '/' do
-  "<h1>hello!</h1>"
+  
+  erb :fooldal
 end
 
 get "/hi/:name" do
